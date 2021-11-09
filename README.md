@@ -1,8 +1,8 @@
 ## Basic image extractor
 
 ```sh
-cd webscrap-can
-yarn
-
-node index.js
+cd image-extractor
 ```
+### `yarn` or `npm install`
+
+### `node index.js`
